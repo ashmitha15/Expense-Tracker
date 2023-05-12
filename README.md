@@ -1,9 +1,13 @@
 Expense Tracker
 
 Introduction: Built an Android Mobile Application to keep track of the user's expenses.
+
 Language: Java
+
 Database: Firebase 
+
 IDE: Android Studio
+
 Min Android Version: Android 8.0 Oreo
 
 
